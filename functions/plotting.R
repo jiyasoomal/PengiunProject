@@ -54,3 +54,4 @@ species_colours <- c("Adelie" = "darkorange",
 
 plot_boxplot(penguins_clean, "species", "flipper_length_mm", "Penguin Species", "Flipper Length (mm)")
 
+
